@@ -1,11 +1,15 @@
 NotesApp adalah Pada  aplikasi Notes untuk mencatat agenda yang sederhana. Untuk media penyimpanan, kita gunakan SQLite. aplikasi ini mencakup beberapa hal yaitu:
 
 Kelas helper apa saja yang perlu dipersiapkan untuk menggunakan SQLite?
+
+
 	Bagaimana proses CRUD (Create Read Update Delete) di dalam SQLite
 	Mengembangkan Aplikasi Catatan Sederhana dengan menggunakan SQLite
 
 
 #informasi
+
+
 Android menyediakan salah satu mekanisme penyimpanan data berulang yang dapat tersimpan secara terstruktur dan berelasi dengan menggunakan SQLite.
 
 SQLite merupakan database yang bersifat open source yang mendukung operasi relasi standar yang umum terdapat pada engine database seperti sintaks SQL dan operasi transaksi. Meskipun berjalan seperti database, pada umumnya sqlite berukuran kecil dan mampu berjalan pada peranti dengan memori terbatas seperti smartphone.
